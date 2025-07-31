@@ -1,7 +1,5 @@
-#!/bin/bash
-
 # Activate the virtual environment
-source streamlit_env/bin/activate
+& .\streamlit_env\Scripts\Activate.ps1
 
-# Run the Streamlit application
+# Run the Streamlit app
 streamlit run main.py --server.headless true --server.port 8504
