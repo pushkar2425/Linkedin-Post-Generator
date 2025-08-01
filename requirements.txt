@@ -1,9 +1,9 @@
-streamlit==1.35.0
-langchain==0.2.14
-langchain-core==0.2.39
-langchain-community==0.2.12
-langchain_groq==0.1.9
-langsmith==0.1.19
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain_groq
+langsmith
 groq
-pandas==2.0.2
+pandas
 python-dotenv
